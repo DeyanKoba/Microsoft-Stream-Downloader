@@ -33,5 +33,4 @@ python3 main.py --username=emailUsedForMsStream@email.com --video=https://web.mi
 
 Sometimes youtube-dl raises the `CERTIFICATE_VERIFY_FAILED` error, you can use a temporary workaround by passing the extra argument `--no-check-certificate` <br />
 For more info and solutions please refer to https://github.com/ytdl-org/youtube-dl/issues/4816
----
 
